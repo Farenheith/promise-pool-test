@@ -1,0 +1,26 @@
+{
+  "name": "promise-pool-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^12.7.11",
+    "@types/promise-queue": "^2.2.0",
+    "nodemon": "^1.19.3",
+    "ts-node": "^8.4.1",
+    "tsc": "^1.20150623.0",
+    "tslint": "^5.20.0",
+    "typescript": "^3.6.3"
+  },
+  "dependencies": {
+    "delay": "^4.3.0",
+    "es6-promise-pool": "^2.5.0",
+    "moment": "^2.24.0",
+    "p-queue": "^6.1.1"
+  }
+}
