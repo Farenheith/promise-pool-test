@@ -20,7 +20,7 @@
   "dependencies": {
     "delay": "^4.3.0",
     "es6-promise-pool": "^2.5.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "p-queue": "^6.1.1"
   }
 }
